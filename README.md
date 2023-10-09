@@ -70,7 +70,7 @@ Follow the on-screen prompts to customize your Dockerfile, including the base im
 To generate a `docker-compose.yml` file, choose option 2 when running the tool:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 Follow the on-screen prompts to configure your services, including container names, image names, environment variables, and more. The generated `docker-compose.yml` file will be saved in the project directory.
