@@ -84,5 +84,3 @@ Contributions are welcome! Please feel free to fork this repository, make change
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README provides a basic template that you can customize to fit your tool's specific details and usage instructions. Make sure to replace `your-username` and `your-repository` with the actual GitHub username and repository name where your tool is hosted.
